@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "afff1076158544d04b8ca9fcd9c9eb93dd6fd36d",
     "author": "RashLop",
     "commit": {
       "date": "2025-08-26T14:23:22.000Z",
       "message": "feat: Cuando se manda el numero 3 se convierte a Fizz",
-      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+      "url": "https://github.com/RashLop/TDD/commit/afff1076158544d04b8ca9fcd9c9eb93dd6fd36d"
     },
     "stats": {
       "total": 9,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T14:26:27.000Z",
+      "message": "feat: Ahora podemos mandar multiplos de 3 y convertirlo a Fizz",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
