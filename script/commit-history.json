@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f082462992a8c2c9314a75f66ca1d0624a85cbbf",
     "author": "RashLop",
     "commit": {
       "date": "2025-08-26T15:18:36.000Z",
       "message": "feat: ya podemos convertir cualquier numero multiplo de 5 y 3 en FizzBuzz, se modifico el condicional para convertir cualquier numero no multiplo de 3 y 5 en una cadena",
-      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+      "url": "https://github.com/RashLop/TDD/commit/f082462992a8c2c9314a75f66ca1d0624a85cbbf"
     },
     "stats": {
       "total": 25,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T15:57:05.000Z",
+      "message": "Generamos una cadena con el numero 4",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 13,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
