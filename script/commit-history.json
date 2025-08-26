@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "254f5b3c865732ec99fff79f0d115733b2130ef7",
     "author": "RashLop",
     "commit": {
       "date": "2025-08-26T14:19:17.000Z",
       "message": "feat: convertir numeros que no son multiplos de ni 5 o 3 en cadena",
-      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+      "url": "https://github.com/RashLop/TDD/commit/254f5b3c865732ec99fff79f0d115733b2130ef7"
     },
     "stats": {
       "total": 10,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T14:23:22.000Z",
+      "message": "feat: Cuando se manda el numero 3 se convierte a Fizz",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
