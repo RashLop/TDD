@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a992e36c02a395069182d00f1fc22818572c37b5",
     "author": "RashLop",
     "commit": {
       "date": "2025-08-26T14:52:56.000Z",
       "message": "feat: Podemos converitr a buzz cualquier multiplo de 5",
-      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+      "url": "https://github.com/RashLop/TDD/commit/a992e36c02a395069182d00f1fc22818572c37b5"
     },
     "stats": {
       "total": 8,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T15:07:16.000Z",
+      "message": "feat: recibir un multiplo de 5 y 3 y devolver FizzBuzz añadido",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
