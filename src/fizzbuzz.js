@@ -1,17 +1,23 @@
 
 function convertirFizzBuzz(n){ 
-    if ( n === 15)
-    {
-        return "FizzBuzz"; 
-    }
+    var conca; 
     if(n % 3 == 0){
-        return "Fizz"; 
+        conca = "Fizz"; 
     }
     if( n % 5 == 0)
     {
-        return "Buzz";
+        conca = "Buzz";
     }
-    return n + "";
+    if ( n % 3 === 0 && n % 5 === 0)
+    {
+        conca = "FizzBuzz"; 
+    }
+    if (n % 3 != 0 && n % 5 != 0)
+    {
+        conca =  n + "";
+    }
+
+    return conca; 
 }
 
 
