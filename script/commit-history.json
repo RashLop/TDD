@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f4a89589ad0dd5a41535052d807e76c07641daa6",
     "author": "RashLop",
     "commit": {
       "date": "2025-08-26T14:15:14.000Z",
       "message": "feat: convertir a fuzzbizz añadido",
-      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+      "url": "https://github.com/RashLop/TDD/commit/f4a89589ad0dd5a41535052d807e76c07641daa6"
     },
     "stats": {
       "total": 22,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T14:19:17.000Z",
+      "message": "feat: convertir numeros que no son multiplos de ni 5 o 3 en cadena",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 8,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
