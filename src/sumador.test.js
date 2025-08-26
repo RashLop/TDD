@@ -1,4 +1,4 @@
-import sumar from "./sumador.js";
+import {sumar, dividir} from "./calculadora.js";
 
 describe("Sumar", () => {
   it("deberia sumar dos numeros", () => {
@@ -6,4 +6,10 @@ describe("Sumar", () => {
   });
 });
 
+
+describe("Dividir", () => {
+  it("deberia dividir dos numeros", () => {
+    expect(dividir(2,2)).toEqual(1); 
+  });
+}); 
 

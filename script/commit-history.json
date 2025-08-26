@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T13:48:58.000Z",
+      "message": "feat: funcion de multiplicacion añadida",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 15,
+      "deletions": 6,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
