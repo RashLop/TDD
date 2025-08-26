@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "997a42f4ffe7bf36fe7e2421d4bd8efcaee8a21c",
     "author": "RashLop",
     "commit": {
       "date": "2025-08-26T16:07:59.000Z",
       "message": "feat: Se puede generar Cadenas con multiplos de 3 y 5 y sus respectivos valores fizz y buzz",
-      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+      "url": "https://github.com/RashLop/TDD/commit/997a42f4ffe7bf36fe7e2421d4bd8efcaee8a21c"
     },
     "stats": {
       "total": 16,
@@ -205,6 +205,25 @@
     },
     "coverage": 100,
     "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T16:13:05.000Z",
+      "message": "feat: Se pueden generar cadenas de hasta 15 numeros con sus respectivos valores de manera correcta",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }
