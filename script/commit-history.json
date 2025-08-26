@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "3746ff6c4c7abfc865841bca8a6979ee5d7fdd42",
     "author": "RashLop",
     "commit": {
       "date": "2025-08-26T13:48:58.000Z",
       "message": "feat: funcion de multiplicacion añadida",
-      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+      "url": "https://github.com/RashLop/TDD/commit/3746ff6c4c7abfc865841bca8a6979ee5d7fdd42"
     },
     "stats": {
       "total": 21,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T14:15:14.000Z",
+      "message": "feat: convertir a fuzzbizz añadido",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 22,
+      "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
