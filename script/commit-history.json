@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "dcd8c67679f8f6b4704cf273805f66bd42879f9c",
     "author": "RashLop",
     "commit": {
       "date": "2025-08-26T15:57:05.000Z",
       "message": "Generamos una cadena con el numero 4",
-      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+      "url": "https://github.com/RashLop/TDD/commit/dcd8c67679f8f6b4704cf273805f66bd42879f9c"
     },
     "stats": {
       "total": 15,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "RashLop",
+    "commit": {
+      "date": "2025-08-26T16:07:59.000Z",
+      "message": "feat: Se puede generar Cadenas con multiplos de 3 y 5 y sus respectivos valores fizz y buzz",
+      "url": "https://github.com/RashLop/TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 14,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 12,
     "failed_tests": 0,
     "conclusion": "success"
   }

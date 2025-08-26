@@ -53,3 +53,11 @@ describe("FizzBuzz", () => {
     });
 
 });
+
+let cadenaPrueba2= ["1","2", "Fizz", "4", "Buzz"]; 
+describe("FizzBuzz", () => {
+    it("deberia generar una cadena con el numero 5", () => {
+        expect(generarCadenaFizzBuzz(5)).toEqual(cadenaPrueba2); 
+    });
+
+});

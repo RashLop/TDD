@@ -20,8 +20,12 @@ function convertirFizzBuzz(n){
     return conca; 
 }
 
-function generarCadenaFizzBuzz(){
-    let Cadena = ["1","2", "Fizz", "4"]; 
+function generarCadenaFizzBuzz( n ){
+    let Cadena = [];
+        for(let i = 1; i <= n ; i++)
+    {
+        Cadena.push(convertirFizzBuzz(i)); 
+    }; 
     return Cadena; 
 }
 
